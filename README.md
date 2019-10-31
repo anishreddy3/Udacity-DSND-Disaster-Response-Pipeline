@@ -40,5 +40,5 @@ We have three main files in this project:
 
 ## Screenshots:
 
-![AltText]('pic1.png')
-![AltText]('pic2.png')
+![]('pic1.png')
+![]('pic2.png')
