@@ -36,7 +36,7 @@ We have three main files in this project:
 
 3. Run the following command to start running our web app to get predictions and see visualizations : `python run.py`
 
-4. Visit [](http://0.0.0.0:3001/) to see the web app
+4. Visit (http://0.0.0.0:3001/) to see the web app
 
 ## Screenshots:
 
