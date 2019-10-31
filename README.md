@@ -40,5 +40,5 @@ We have three main files in this project:
 
 ## Screenshots:
 
-![]('pic1.png')
-![]('pic2.png')
+![](pic1.PNG)
+![](pic2.PNG)
